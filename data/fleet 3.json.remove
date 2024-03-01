@@ -1,0 +1,206 @@
+{
+	"fleet": [
+		{
+			"make": "Renault",
+			"model": "Captur",
+			"automaticTransmission": true,
+			"fuelType": "petrol",
+			"weeklyRentalPrice": 1234.22
+		},
+		{
+			"make": "Renault",
+			"model": "Volvo S60",
+			"automaticTransmission": false,
+			"fuelType": "diesel",
+			"weeklyRentalPrice": 1744.66
+		},
+		{
+			"make": "Hyundai",
+			"model": "Ioniq",
+			"automaticTransmission": true,
+			"fuelType": "electric",
+			"weeklyRentalPrice": 2098.34
+		},
+		{
+			"make": "Ford",
+			"model": "Focus",
+			"automaticTransmission": false,
+			"fuelType": "petrol",
+			"weeklyRentalPrice": 1350.00
+		},
+		{
+			"make": "Toyota",
+			"model": "Camry",
+			"automaticTransmission": true,
+			"fuelType": "hybrid",
+			"weeklyRentalPrice": 1899.99
+		},
+		{
+			"make": "BMW",
+			"model": "X5",
+			"automaticTransmission": true,
+			"fuelType": "diesel",
+			"weeklyRentalPrice": 2500.50
+		},
+		{
+			"make": "Renault",
+			"model": "Captur",
+			"automaticTransmission": true,
+			"fuelType": "petrol",
+			"weeklyRentalPrice": 1234.22
+		},
+		{
+			"make": "Toyota",
+			"model": "Corolla",
+			"automaticTransmission": false,
+			"fuelType": "hybrid",
+			"weeklyRentalPrice": 1450.99
+		},
+		{
+			"make": "Honda",
+			"model": "Civic",
+			"automaticTransmission": true,
+			"fuelType": "petrol",
+			"weeklyRentalPrice": 1300.50
+		},
+		{
+			"make": "Ford",
+			"model": "Mustang",
+			"automaticTransmission": true,
+			"fuelType": "petrol",
+			"weeklyRentalPrice": 2000.00
+		},
+		{
+			"make": "Chevrolet",
+			"model": "Camaro",
+			"automaticTransmission": true,
+			"fuelType": "petrol",
+			"weeklyRentalPrice": 1750.75
+		},
+		{
+			"make": "BMW",
+			"model": "X3",
+			"automaticTransmission": true,
+			"fuelType": "diesel",
+			"weeklyRentalPrice": 2200.30
+		},
+		{
+			"make": "Mercedes-Benz",
+			"model": "E-Class",
+			"automaticTransmission": false,
+			"fuelType": "diesel",
+			"weeklyRentalPrice": 2400.99
+		},
+		{
+			"make": "Audi",
+			"model": "A4",
+			"automaticTransmission": true,
+			"fuelType": "petrol",
+			"weeklyRentalPrice": 1800.25
+		},
+		{
+			"make": "Volkswagen",
+			"model": "Golf",
+			"automaticTransmission": false,
+			"fuelType": "petrol",
+			"weeklyRentalPrice": 1350.00
+		},
+		{
+			"make": "Hyundai",
+			"model": "Sonata",
+			"automaticTransmission": true,
+			"fuelType": "hybrid",
+			"weeklyRentalPrice": 1950.50
+		},{
+			"make": "Renault",
+			"model": "Captur",
+			"automaticTransmission": true,
+			"fuelType": "petrol",
+			"weeklyRentalPrice": 1234.22
+		},
+		{
+			"make": "Toyota",
+			"model": "Corolla",
+			"automaticTransmission": false,
+			"fuelType": "hybrid",
+			"weeklyRentalPrice": 1450.99
+		},
+		{
+			"make": "Honda",
+			"model": "Civic",
+			"automaticTransmission": true,
+			"fuelType": "petrol",
+			"weeklyRentalPrice": 1300.50
+		},
+		{
+			"make": "Ford",
+			"model": "Mustang",
+			"automaticTransmission": true,
+			"fuelType": "petrol",
+			"weeklyRentalPrice": 2000.00
+		},
+		{
+			"make": "Chevrolet",
+			"model": "Camaro",
+			"automaticTransmission": true,
+			"fuelType": "petrol",
+			"weeklyRentalPrice": 1750.75
+		},
+		{
+			"make": "BMW",
+			"model": "X3",
+			"automaticTransmission": true,
+			"fuelType": "diesel",
+			"weeklyRentalPrice": 2200.30
+		},
+		{
+			"make": "Mercedes-Benz",
+			"model": "E-Class",
+			"automaticTransmission": false,
+			"fuelType": "diesel",
+			"weeklyRentalPrice": 2400.99
+		},
+		{
+			"make": "Audi",
+			"model": "A4",
+			"automaticTransmission": true,
+			"fuelType": "petrol",
+			"weeklyRentalPrice": 1800.25
+		},
+		{
+			"make": "Volkswagen",
+			"model": "Golf",
+			"automaticTransmission": false,
+			"fuelType": "petrol",
+			"weeklyRentalPrice": 1350.00
+		},
+		{
+			"make": "Hyundai",
+			"model": "Sonata",
+			"automaticTransmission": true,
+			"fuelType": "hybrid",
+			"weeklyRentalPrice": 1950.50
+		},
+		{
+			"make": "Nissan",
+			"model": "Altima",
+			"automaticTransmission": true,
+			"fuelType": "petrol",
+			"weeklyRentalPrice": 1700.00
+		},
+		{
+			"make": "Tesla",
+			"model": "Model 3",
+			"automaticTransmission": false,
+			"fuelType": "electric",
+			"weeklyRentalPrice": 2500.00
+		},
+		{
+			"make": "Subaru",
+			"model": "Outback",
+			"automaticTransmission": true,
+			"fuelType": "petrol",
+			"weeklyRentalPrice": 1600.50
+		}
+	]
+}
