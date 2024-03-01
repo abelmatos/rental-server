@@ -8,7 +8,8 @@ import java.util.List;
 @JsonIgnoreProperties(ignoreUnknown = true)
 @JsonInclude(JsonInclude.Include.NON_NULL)
 public record RentalFleet(
-     List<CarFleet> fleet,
-     List<Car> cars
+        List<CarFleet> fleet,
+        List<Car> cars
 
-){}
+) {
+}
